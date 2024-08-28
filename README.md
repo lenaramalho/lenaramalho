@@ -1,5 +1,5 @@
 ## Oi, eu sou a Milena! Bem vindo ao meu perfil 👋
-- 🌱 Sou uma estudante de ADS e desenvolvedora web em formação!
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em formação!
 - 📚 Aprendendo JavaScript
 <div>
  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lenaramalho&show_icons=true&theme=onedark">-->
