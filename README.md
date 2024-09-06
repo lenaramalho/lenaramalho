@@ -1,6 +1,7 @@
 ## Oi, eu sou a Milena! Bem vindo ao meu perfil 👋
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em formação!
-- 📚 Aprendendo JavaScript
+- 🌱 Desenvolvedora Web.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na UNISANTOS.
+- 📚 Aprendendo JavaScript aprofundado e Web API
 <div>
  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lenaramalho&show_icons=true&theme=onedark">-->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaramalho&theme=onedark"/>
@@ -13,6 +14,9 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+## Onde me encontrar
+
 <!--
 **lenaramalho/lenaramalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
