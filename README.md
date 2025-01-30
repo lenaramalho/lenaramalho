@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/milena-ramalho-3ab8b8262/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Motivated technology student with a foundation in web development and a growing focus on cybersecurity. Currently learning security best practices and network protection, seeking an internship to apply and develop cybersecurity skills.
+Motivated technology student with a foundation in web development and a growing focus on cybersecurity. Currently learning security best practices and network protection, seeking an internship to apply and develop cybersecurity and devops skills.
 - 📚 Systems Analysis and Development - Universidade Católica de Santos
 
 ##
